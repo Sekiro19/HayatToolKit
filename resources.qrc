@@ -1,0 +1,12 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>bin/ui/icons/icons8-support-50.png</file>
+    <file>bin/ui/icons/icons8-broom-50.png</file>
+    <file>bin/ui/icons/cil-check-alt.png</file>
+    <file>bin/ui/icons/icons8-hashtag-key-50.png</file>
+    <file>bin/ui/icons/cil-arrow-bottom.png</file>
+    <file>bin/ui/icons/cil-arrow-top.png</file>
+    <file>bin/ui/icons/icons8-x-48.png</file>
+    <file>bin/ui/icons/logo.svg</file>
+  </qresource>
+</RCC>

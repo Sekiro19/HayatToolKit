@@ -1,0 +1,3 @@
+from .ui_pyProductMapper import Ui_Form_ProductMapper
+from .ui_pyFuzzPerge import Ui_Form_FuzzyPerge
+from .ui_pyFixExcelFiles import Ui_Form_FixExcelFiles
